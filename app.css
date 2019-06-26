@@ -1,0 +1,14 @@
+h1 {
+    color:rgba(8, 77, 119,.35);  
+  }
+  body {
+      color:white;
+      background-attachment: fixed;
+      background-color:rgba(174, 177, 10, 0.514);
+  }
+  li {
+    color:#084d77;  
+  }
+  h4 {
+      color:maroon;
+  }
